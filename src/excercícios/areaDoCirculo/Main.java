@@ -1,4 +1,4 @@
-package areaDoCirculo;
+package excercícios.areaDoCirculo;
 
 import java.io.IOException;
 import java.lang.Math;
